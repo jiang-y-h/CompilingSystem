@@ -1,3 +1,5 @@
+#include"sylib.h"
+#include"sylib.c"
 const float k=3.0;
 float a=2.0;
 int b[2]={5,8};
